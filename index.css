@@ -352,7 +352,8 @@
   position: absolute;
   top: -6px;
   left: 2px;
-  letter-spacing: -0.29px;
+  font-size: 22px;
+  /* letter-spacing: -0.0px; */
 }
 .white {
   position: absolute;
@@ -401,7 +402,7 @@ input {
   text-decoration: none;
   color: rgb(35, 102, 122);
   position: relative;
-  left: -50px;
+  left: 0px;
 }
 #q {
   position: relative;
@@ -491,7 +492,7 @@ input {
   background-color: #e93a7d;
   position: relative;
   top: -2px;
-  left: 450px;
+  left: 366px;
   border-radius: 30px;
   color: white;
   font-size: 15px;
